@@ -1,4 +1,4 @@
-# Medium multiply
+# Music Downloader
 A simple library to download music easy.
 
 ### Installation
