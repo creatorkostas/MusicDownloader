@@ -7,11 +7,12 @@ pip install MusicDown
 ```
 
 ### Get started
-How to multiply one number by another with this lib:
+How to download one song using this library:
 
 ```Python
 from MusicDownloader import MusicDownloader
 
 # Call the download method
+urls=["URL"]
 MusicDownloader.download(urls,download_path,faild_file)
 ```
