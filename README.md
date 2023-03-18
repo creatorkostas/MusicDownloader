@@ -3,7 +3,7 @@ A simple library to download music easy.
 
 ### Installation
 ```
-pip install Music_Downloader
+pip install MusicDown
 ```
 
 ### Get started
